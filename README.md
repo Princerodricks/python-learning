@@ -1,6 +1,3 @@
-## ✅ 3. `python-learning` — _Core Bootcamp_
-
-```md
 <h1 align="center">🐍 Python Learning: From Basics to Brilliance</h1>
 
 <p align="center">
@@ -13,7 +10,7 @@
 
 ## 🧠 Topics Covered
 
-```bash
+``bash
 /basics/
   variables, loops, functions
 /oop/
