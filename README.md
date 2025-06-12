@@ -48,3 +48,19 @@
 ---
 
 > 📍 “Python is not just a language. It’s a mindset.” — Future Me
+> # 🧠 100DaysOfAI Log
+
+Welcome to my 100 Days of AI journey! 🚀
+
+Each day, I’ll log my progress, learning topics, tools explored, and small projects or code snippets I work on. This will help track my growth from beginner to AI specialist over the next 6 months.
+
+---
+
+## 🾏️ WEEK 01
+
+### ✅ Day 01 – Python Setup + GitHub Profile
+**Date:** June 12, 2025  
+**Topics:** Python basics, GitHub repo creation, futuristic profile setup.  
+**Tools:** Git, GitHub, VS Code.  
+**Notes:** Customized profile, created AI roadmap and 100DaysOfAI repos, added badges, started learning Python.  
+
