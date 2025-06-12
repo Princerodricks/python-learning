@@ -1,6 +1,3 @@
-
----
-
 ## ✅ 3. `python-learning` — _Core Bootcamp_
 
 ```md
