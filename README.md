@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/Princerodricks/python-learning/blob/main/python_journey_banner.png" alt="AI Banner" style="max-width: 100%;">
+</p>
 <h1 align="center">🐍 Python Learning: From Basics to Brilliance</h1>
 
 <p align="center">
