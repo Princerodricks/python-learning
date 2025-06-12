@@ -17,3 +17,31 @@
   classes, inheritance
 /projects/
   CLI tools, mini apps
+  ### 📘 Purpose
+
+> This repo is my personal sandbox for mastering **Python** — the foundation of AI, ML, and everything automation-related.
+
+---
+
+### 🧪 What’s Inside
+
+| Module | Topics Covered                  |
+|--------|----------------------------------|
+| 01     | Variables, Loops, Conditions     |
+| 02     | Functions, Recursion, Scopes     |
+| 03     | Lists, Tuples, Dicts, Sets       |
+| 04     | File Handling & Exceptions       |
+| 05     | OOP + Modules + Virtual Envs     |
+
+---
+
+### 🛠️ Tools Used
+
+- 🧠 **Python 3.12+**
+- 🖥️ **VS Code**
+- 🧪 **Jupyter Notebooks**
+- 🔁 **Git + GitHub**
+
+---
+
+> 📍 “Python is not just a language. It’s a mindset.” — Future Me
