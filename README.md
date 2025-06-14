@@ -64,17 +64,6 @@ Each day, I’ll log my progress, learning topics, tools explored, and small pro
 **Tools:** Git, GitHub, VS Code.  
 **Notes:** Customized profile, created AI roadmap and 100DaysOfAI repos, added badges, started learning Python.  
 
-# Day 2 of Week 1
-
-## 🔍 What I learned today
-
-## 🧠 Key Concepts
-
-## 💡 Breakthroughs
-
-## 🤖 Code/Experiments
-
-## 🧭 What's next
 
 
 
