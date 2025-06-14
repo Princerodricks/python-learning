@@ -65,7 +65,7 @@ Each day, I’ll log my progress, learning topics, tools explored, and small pro
 **Notes:** Customized profile, created AI roadmap and 100DaysOfAI repos, added badges, started learning Python. 
 
 ### ✅ Day 2 
-Some more Python syntax
+Some Python syntax
 Takeaway:Learning Python is like learning to think — the
 syntax is just the surface, logic is the real power. I
 #AI #MachineLearning #GenAl #Python
