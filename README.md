@@ -66,9 +66,20 @@ Each day, I’ll log my progress, learning topics, tools explored, and small pro
 
 ### ✅ Day 2 
 Some Python syntax
-Takeaway:Learning Python is like learning to think — the
+Takeaway: Learning Python is like learning to think — the
 syntax is just the surface, logic is the real power. I
 #AI #MachineLearning #GenAl #Python
+
+### ✅ Day 3 
+Some more Python syntax, there's tooooooooo many
+Takeaway: Slowly getting the logic, i am liking this!!!!!
+#AI #MachineLearning #GenAl #Python
+
+### ✅ Day 4 
+Some more Python syntax, ahhhhhh, when does this get over????
+Takeaway: i noticed something in these past days that i am not getting bored!! and thats fantastic for a start!!!
+#AI #MachineLearning #GenAl #Python
+
 
 
 
