@@ -85,6 +85,22 @@ Revised all that i did in the past days and tomorrow I'll start with List and tu
 Takeaway: Each part of learning python is divided into parts , a rivision is very important after every part.
 #AI #MachineLearning #GenAl #Python
 
+### ✅ Day 6 
+Revised all that i did in the past days , i also started maths for ML today. Takeaway: After learning a topic, revisit and practice it before moving ahead. It strengthens memory and understanding. 
+#AI #MachineLearning #GenAl #Python
+
+### ✅ Day 7
+ohh this maths is getting harder and harder!! Takeaway: Writing code without a compiler (on paper or in notes) boosts logic-building and reduces dependency on autocomplete. 
+#AI #MachineLearning #GenAl #Python
+
+### ✅ Day 8 
+huhh! i am getting a gist of it now. Takeaway: Apply your learning with small projects like a calculator, to-do app, or quiz — this reinforces concepts.
+#AI #MachineLearning #GenAl #Python
+
+### ✅ Day 9 
+building up confidence. Takeaway: Focus on why and how Python works, not just remembering syntax. That’s what makes you a real programmer.
+#AI #MachineLearning #GenAl #Python
+
 
 
 
