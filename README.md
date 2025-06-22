@@ -101,6 +101,11 @@ huhh! i am getting a gist of it now. Takeaway: Apply your learning with small pr
 building up confidence. Takeaway: Focus on why and how Python works, not just remembering syntax. That’s what makes you a real programmer.
 #AI #MachineLearning #GenAl #Python
 
+### ✅ Day 10
+learned: did some changes in the RSP, added some while loops, somescope, and it was fun.  
+Takeaway: practice makes one perfect. 
+#AI #MachineLearning #GenAl #Python
+
 
 
 
