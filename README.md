@@ -114,6 +114,20 @@ learned: taking some time ot to do maths also , caus thats also important.
 Takeaway: stick with the basics.
 #AI #MachineLearning #GenAl #Python
 
+### ✅ Day 12
+learned: finished with the basics now  planning to build a web app. 
+Takeaway: Always start with something easy to build.
+#AI #MachineLearning #GenAl #Python
+
+### ✅ Day 13
+learned: Decided to build simple weather webapp and already strarted working on it!!!
+Takeaway: nothings easy!!!!!
+#AI #MachineLearning #GenAl #Python
+
+### ✅ Day 14
+learned: Its finally ready!!!! ( https://python-weather-jgw2.onrender.com ) 
+Takeaway: Always celebrate the smallest things!!!
+#AI #MachineLearning #GenAl #Python
 
 
 
