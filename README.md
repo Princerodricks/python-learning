@@ -125,6 +125,10 @@ Takeaway: nothings easy!!!!!
 #AI #MachineLearning #GenAl #Python
 
 ### ✅ Day 14
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-Python3.10+-black?style=for-the-badge&logo=python&logoColor=lightblue" />
+  <img src="https://img.shields.io/badge/IDE-VSCode-purple?style=for-the-badge&logo=visualstudiocode" />
+</p>
 learned: Its finally ready!!!! ( https://python-weather-jgw2.onrender.com ) 
 Takeaway: Always celebrate the smallest things!!!
 #AI #MachineLearning #GenAl #Python
