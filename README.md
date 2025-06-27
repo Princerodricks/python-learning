@@ -133,6 +133,7 @@ learned: Its finally ready!!!! ( https://python-weather-jgw2.onrender.com )
 Takeaway: Always celebrate the smallest things!!!
 #AI #MachineLearning #GenAl #Python
 
+
 ✅ Day 15
 learned: i have started revising python basics , and i'am also solving 5 problem of each basic/topic Takeaway: basics are the key. #AI #MachineLearning #GenAl #Python
 
