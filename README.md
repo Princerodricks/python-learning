@@ -95,7 +95,7 @@ ohh this maths is getting harder and harder!!
 Takeaway: Writing code without a compiler (on paper or in notes) boosts logic-building and reduces dependency on autocomplete. 
 #AI #MachineLearning #GenAl #Python
 
-### ✅ Day 8 
+### ✅ Day 8 ####### WEEK-2 ######### 19th JUNE
 huhh! i am getting a gist of it now. 
 Takeaway: Apply your learning with small projects like a calculator, to-do app, or quiz — this reinforces concepts.
 #AI #MachineLearning #GenAl #Python
@@ -124,7 +124,7 @@ learned: Decided to build simple weather webapp and already strarted working on 
 Takeaway: nothings easy!!!!!
 #AI #MachineLearning #GenAl #Python
 
-### ✅ Day 14<p align="center">
+### ✅ Day 14<p align="center"> ####### WEEK-3 ######### 25th JUNE
   <img src="https://img.shields.io/badge/Language-Python3.10+-black?style=for-the-badge&logo=python&logoColor=lightblue" />
   <img src="https://img.shields.io/badge/IDE-VSCode-purple?style=for-the-badge&logo=visualstudiocode" />
   <img src="https://img.shields.io/badge/Track-Beginner→Advanced-neon?style=for-the-badge&logo=github" />
@@ -132,6 +132,15 @@ Takeaway: nothings easy!!!!!
 learned: Its finally ready!!!! ( https://python-weather-jgw2.onrender.com ) 
 Takeaway: Always celebrate the smallest things!!!
 #AI #MachineLearning #GenAl #Python
+
+✅ Day 15
+learned: i have started revising python basics , and i'am also solving 5 problem of each basic/topic Takeaway: basics are the key. #AI #MachineLearning #GenAl #Python
+
+✅ Day 16
+learned: This revision is so helpful Takeaway: Rule 1 always revise #AI #MachineLearning #GenAl #Python
+
+✅ Day 17
+learned: this will take a while Takeaway: nothings easy!!!! #AI #MachineLearning #GenAl #Python
 
 
 
